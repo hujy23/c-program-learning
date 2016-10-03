@@ -1,0 +1,8 @@
+#c compile files
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+
+Debug
